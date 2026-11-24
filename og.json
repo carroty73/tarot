@@ -1,0 +1,20 @@
+{
+  "defaults": {
+    "base_url": "https://tarot.carroty.com",
+    "site_name": "오늘의 타로",
+    "locale": "ko_KR",
+    "color": "#190c26"
+  },
+  "app": {
+    "short_name": "오늘의 타로",
+    "icon": "assets/img/icon/icon.png",
+    "background_color": "#190c26"
+  },
+  "pages": {
+    "/": {
+      "title": "오늘의 타로",
+      "description": "카드를 눌러 오늘의 타로 한 장을 뽑아 보세요. 타로 카드 78장의 뜻과 키워드도 볼 수 있습니다.",
+      "image": "assets/img/og/og.png"
+    }
+  }
+}
